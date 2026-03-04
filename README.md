@@ -4,14 +4,14 @@ App Description:
   This is a task management application developed using Kotlin for Android. It demonstrates the fundamental concepts of Android development, including UI components, data persistence, and state management.
 
 Key Features:
-Add Tasks: 
-  Users can enter a task title and a detailed description.
-View Tasks: 
-  All saved tasks are displayed in a responsive RecyclerView.
-Delete Tasks: 
-  Users can remove tasks from the list with a single click.
-Persistence: 
-  Tasks are saved locally and remain available even after closing the app.
+  Add Tasks: 
+    Users can enter a task title and a detailed description.
+  View Tasks: 
+    All saved tasks are displayed in a responsive RecyclerView.
+  Delete Tasks: 
+    Users can remove tasks from the list with a single click.
+  Persistence: 
+   Tasks are saved locally and remain available even after closing the app.
   
 Design & Architecture Choices:
 Multi-Screen Navigation: 
