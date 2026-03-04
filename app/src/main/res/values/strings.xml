@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task Master</string>
+    <string name="my_task_manager">My Task Manager</string>
+    <string name="title">(Title)</string>
+    <string name="description">විස්තරය (Description)</string>
+    <string name="Add">ඇතුළත් කරන්න</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="mytaskmanager">My Task Manager</string>
+    <string name="list_title">Title</string>
+    <string name="List_description">Description</string>
+    <string name="save_task">Save Task</string>
+</resources>
